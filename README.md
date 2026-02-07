@@ -1,6 +1,13 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-> See the GitHub About section screenshot above for repository details.
+
+## About
+
+**Project Description:**
+This project demonstrates the integration of Meta's Lexical editor in a Next.js app, covering 8 major use cases including CMS, collaborative editing, chat, email, forms, code, notes, and media embedding.
+
+**Project Link:**
+[Proxy Demo Link](http://localhost:3000) (update with actual deployment URL if available)
 
 ## Lexical Editor Use Cases Checklist
 
