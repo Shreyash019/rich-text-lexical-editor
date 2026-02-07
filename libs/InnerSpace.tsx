@@ -47,7 +47,7 @@ function Stars(props: any) {
         <PointMaterial
           transparent
           color="#06b6d4" // Cyan tint
-          size={0.0025}    // Bumped slightly from 0.0025 for better visibility
+          size={0.003}    // Bumped slightly from 0.0025 for better visibility
           sizeAttenuation={true}
           depthWrite={false}
           opacity={0.6}   // Bumped from 0.5 for a "shining" feel
